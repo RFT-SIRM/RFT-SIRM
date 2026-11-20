@@ -1,1 +1,1 @@
-<p align="center"><img src="assets/rft-sirm-research-universe.svg" width="100%" alt="RFT-SIRM animated research artwork: fourth-moment theorem, Schur spectral limit, and finite-level precision certificates"/></p>
+<p align="center"><img src="assets/rft-sirm-profile-hero.gif" width="100%" alt="RFT-SIRM"/></p>
